@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sachin Jaiswal</h1>
 <h3 align="center">SDE-2 Full Stack Developer</h3>
 
-- 🔭 I’m currently working on [my personal project that connects influencers and brands for collaboration](https://doendorse.com)
+- 🔭 I’m currently working on my personal projects [Doendorse | connect influencers and brands for campaigns](https://doendorse.com), [twimg | convert your tweets into beautiful images](), [nyroboard | Real time web collaboration whiteboard]()
 
 - 🌱 I’m currently learning **K8s**
 
