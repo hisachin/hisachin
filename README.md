@@ -3,7 +3,7 @@
 
 - 📝 [Portfolio](https://hisachin.github.io/portfolio/)
 
-- 🔭 I’m currently working on my personal projects [Doendorse | connect influencers and brands for campaigns](https://doendorse.com), [twimg | convert your tweets into beautiful images](), [nyroboard | Real time web collaboration whiteboard]()
+- 🔭 I’m currently working on my personal projects [Doendorse | connect influencers and brands for campaigns](https://doendorse.com), [twimg | convert your tweets into beautiful images](), [nyroboard | Real time web collaboration whiteboard](https://hisachin.github.io/nyroboard/)
 
 - 🌱 I’m currently learning **K8s**
 
