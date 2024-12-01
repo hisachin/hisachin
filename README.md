@@ -11,7 +11,7 @@
 
 - 📝 I write articles whenever I get time on [https://dev.to/hisachin](https://dev.to/hisachin)
 
-- 💬 Ask me about **Javascript,React,Angular,AWS,OCI,HTML,CSS,web3.js**
+- 💬 Ask me about **NodeJs,System Arhitecture,Javascript,React,AWS,GCP,Web3.Js**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
